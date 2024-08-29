@@ -1,4 +1,7 @@
 ## Hi there 👋
+---
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/64ba0e388a29ad56fa9da30f?variant=dark&roadmaps=ux-design%2Cqa" alt="roadmap.sh"/></a>
+
 
 <!--
 **theChandrayMurmu/theChandrayMurmu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
